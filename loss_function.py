@@ -1,3 +1,5 @@
+"""Thie module includes some loss functions"""
+
 import numpy as np
 
 def hinge(z):
